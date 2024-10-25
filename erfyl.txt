@@ -4,3 +4,4 @@ this is git pull and git fetch assignment
 34.55.87.92
 34.56.78.90
 this is one of devops assignment
+git fetch and pull demo
